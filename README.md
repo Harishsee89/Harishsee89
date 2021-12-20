@@ -46,4 +46,4 @@
 <a href="mailto:harisharpi012020@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-harisharpi012020@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+⭐️ From [Harishsee89](https://github.com/Harishsee89)
